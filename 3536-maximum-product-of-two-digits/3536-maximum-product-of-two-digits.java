@@ -1,13 +1,22 @@
 class Solution {
     public int maxProduct(int n) {
-        int[] digitsArray = new int[(int)Math.log10(n)+1];
-        int i = 0;
-        while(n > 0) {
-            digitsArray[i] = n%10;
+
+        int max1 = 0;
+        int max2 = 0;
+
+        while (n > 0) {
+            int digit = n % 10;
+
+            if (digit >= max1) {
+                max2 = max1;
+                max1 = digit;
+            } else if (digit > max2) {
+                max2 = digit;
+            }
+
             n /= 10;
-            i++;
         }
-        Arrays.sort(digitsArray);
-        return digitsArray[digitsArray.length - 1] * digitsArray[digitsArray.length - 2];
+
+        return max1 * max2;
     }
 }
