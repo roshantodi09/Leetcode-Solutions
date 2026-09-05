@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/roshantodi09/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
+| [0507-perfect-number](https://github.com/roshantodi09/Leetcode-Solutions/tree/master/0507-perfect-number) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/roshantodi09/Leetcode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Prefix Sum
 |  |
