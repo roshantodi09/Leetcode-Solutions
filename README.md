@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/roshantodi09/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/roshantodi09/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0140-word-break-ii](https://github.com/roshantodi09/Leetcode-Solutions/tree/master/0140-word-break-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/roshantodi09/Leetcode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -11,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/roshantodi09/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/roshantodi09/Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/roshantodi09/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0140-word-break-ii](https://github.com/roshantodi09/Leetcode-Solutions/tree/master/0140-word-break-ii) |
