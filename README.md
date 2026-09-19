@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/roshantodi09/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/roshantodi09/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/roshantodi09/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0140-word-break-ii](https://github.com/roshantodi09/Leetcode-Solutions/tree/master/0140-word-break-ii) |
 | [0204-count-primes](https://github.com/roshantodi09/Leetcode-Solutions/tree/master/0204-count-primes) |
@@ -74,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/roshantodi09/Leetcode-Solutions/tree/master/0204-count-primes) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/roshantodi09/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
